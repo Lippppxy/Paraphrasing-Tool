@@ -1,4 +1,6 @@
 # Paraphrasing-Tool
+![Screenshot 2023-11-29 at 09 20 17](https://github.com/Lippppxy/Paraphrasing-Tool/assets/124546627/ea0f4738-9605-4a4a-9cff-c0f52175d96a)
+
 **Bahasa Indonesia:**
 
 Program ini adalah alat parafrase yang sederhana namun efektif. Berikut adalah penjelasan fitur utama dan cara penggunaannya:
