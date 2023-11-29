@@ -1,5 +1,7 @@
 # Paraphrasing-Tool
 ![Screenshot 2023-11-29 at 09 20 17](https://github.com/Lippppxy/Paraphrasing-Tool/assets/124546627/ea0f4738-9605-4a4a-9cff-c0f52175d96a)
+![Screenshot 2023-11-29 at 09 29 54](https://github.com/Lippppxy/Paraphrasing-Tool/assets/124546627/c9ef2d57-68fd-4d58-bd39-db584823315d)
+![Screenshot 2023-11-29 at 09 30 19](https://github.com/Lippppxy/Paraphrasing-Tool/assets/124546627/92d5bf21-0d3b-4de5-9546-5a8556d6ed51)
 
 **Bahasa Indonesia:**
 
